@@ -1,0 +1,1 @@
+In this project, I completed the housing prices data Kaggle competition using Python. I analyzed house price data and build a machine learning model to predict the sale price of houses based on information such as location, size, and year built.
